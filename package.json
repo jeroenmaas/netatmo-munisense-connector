@@ -1,0 +1,12 @@
+{
+  "name": "netatmo-munisense-connector",
+  "version": "1.0.0",
+  "description": "Simple program to import netatmo weather station sensor values into the Munisense backoffice",
+  "main": "index.js",
+  "author": "Jeroen Maas",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "sync-disk-cache": "^1.2.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
