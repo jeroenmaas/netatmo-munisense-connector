@@ -6,6 +6,7 @@
   "author": "Jeroen Maas",
   "license": "CC0-1.0",
   "dependencies": {
+    "netatmo": "^2.1.0",
     "sync-disk-cache": "^1.2.2",
     "xmlhttprequest": "^1.8.0"
   }
